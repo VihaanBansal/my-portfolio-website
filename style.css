@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+#welcome{
+    font-family:monospace;
+    background-color: aquamarine;
+}
+#info{
+    font-family: 'Italianno', cursive;;
+    background-color:aqua;
+}
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+#about{
+ font-family: 'Italianno', cursive;;
+    background-color:mediumaquamarine;   
+}
+#videos{
+    font-family: 'Italianno', cursive;;
+    background-color:gold;
+}
+#work{
+    font-family: 'Italianno', cursive;;
+    background-color:silver;
+}
+#apps{
+    font-family: 'Italianno', cursive;;
+    background-color:blue;
+}
+#games{
+    font-family: 'Italianno', cursive;;
+    background-color:red;
+}
+#interest{
+    font-family: 'Italianno', cursive;;
+    background-color:chartreuse;
+}
+#favgame{
+    font-family: 'Italianno', cursive;;
+    background-color:cadetblue;
+}
